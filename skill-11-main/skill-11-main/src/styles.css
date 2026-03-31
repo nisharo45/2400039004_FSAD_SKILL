@@ -1,0 +1,48 @@
+
+body{
+ font-family: Arial;
+ background:#f2f4f7;
+ text-align:center;
+}
+
+.title{
+ margin-top:20px;
+}
+
+.container{
+ width:80%;
+ margin:auto;
+}
+
+.nav button{
+ margin:10px;
+ padding:10px 15px;
+ background:#2563eb;
+ color:white;
+ border:none;
+ border-radius:5px;
+}
+
+table{
+ width:100%;
+ margin-top:20px;
+ border-collapse:collapse;
+}
+
+th,td{
+ border:1px solid #ccc;
+ padding:10px;
+}
+
+th{
+ background:#2563eb;
+ color:white;
+}
+
+.card{
+ background:white;
+ margin:15px;
+ padding:15px;
+ border-radius:8px;
+ box-shadow:0 2px 8px rgba(0,0,0,0.2);
+}
